@@ -7,9 +7,9 @@ This repository contains a ready-to-import n8n workflow for generating Instagram
 - screenshots/: preview images for documentation and workflow examples
 
 ## Screenshots
-- #Workflow overview:
+- # Workflow overview:
  ![Workflow screenshot](screenshots/workflow.png)
-- #Example output:
+- # Example output:
  ![Output screenshot](screenshots/output.png)
 
 ## Getting started
