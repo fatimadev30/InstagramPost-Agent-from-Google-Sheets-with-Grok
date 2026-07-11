@@ -7,12 +7,15 @@ This repository contains a ready-to-import n8n workflow for generating Instagram
 - screenshots/: preview images for documentation and workflow examples
 
 ## Screenshots
-- Workflow overview: ![Workflow screenshot](screenshots/workflow.png)
-- Example output: ![Output screenshot](screenshots/output.png)
+- #Workflow overview:
+ ![Workflow screenshot](screenshots/workflow.png)
+- #Example output:
+ ![Output screenshot](screenshots/output.png)
 
 ## Getting started
 1. Import the workflow JSON into n8n.
-2. Configure the required credentials for Google Sheets, Gemini, Cloudinary, and Facebook Graph API.
+2. Configure the required credentials for Google Sheets
+, Cloudinary, and Facebook Graph API.
 3. Run the workflow manually to test the pipeline.
 
 ## Notes
